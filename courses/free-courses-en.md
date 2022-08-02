@@ -191,6 +191,8 @@
 * [C Programming and Assembly Language](https://nptel.ac.in/courses/106/106/106106210/) - Prof. Janakiraman Viraraghavan, IIT Madras (NPTEL)
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html) - Matt Briggs (OpenSecurityTraining)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html) - Xeno Kovah (OpenSecurityTraining)
+* [Programming 101
+Comprehend basic foundational knowledge of hardware, networking, programming and licensing](https://www.udemy.com/course/programming-101/) - Lawrence Turton (Udemi)
 
 
 ### AutoIt
